@@ -45,6 +45,8 @@ Preheat the oven to 180°C, top–bottom heat. Let the donuts rise a bit more wh
 Break the chocolate into pieces and melt it with the oil in a bowl over a water bath (choose a bowl that makes dipping the donuts easy).  
 Dip the still-warm donuts (but not so hot that you burn your fingers!) into the chocolate — upside down into the bowl — lift them out, and sprinkle with coconut or sprinkles. Set aside to cool, then store in the fridge (assuming you can resist eating them all while still warm 😛).
 
+---
+
 Enjoy! 💙
 
-[def]: static/images/donuts-from-oven.jpg
+[def]: static/images/donuts_from_oven.jpg

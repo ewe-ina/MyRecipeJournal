@@ -43,6 +43,8 @@ Wyrośnięte ciasto w całości kładziemy na lekko oprószony mąką stół i w
 Połamaną czekoladę z olejem roztapiamy w kąpieli wodnej w miseczce (takiej by łatwo było nam w niej nurzać donaty).
 Jeszcze ciepłe donaty (ale nie na tyle, żeby parzyć sobie łapki) moczymy w czekoladzie (wkładamy do góry nogami do miseczki), wyciągamy i posypujemy wiórkami czy posypką. Odstawiamy do wystygnięcia a następnie chowamy do lodówki (o ile jesteśmy w stanie nie pochłonąć wszystkich na ciepło 😛).
 
+---
+
 Smacznego! 💙
 
-[def]: static/images/donuts-from-oven.jpg
+[def]: static/images/donuts_from_oven.jpg
