@@ -45,4 +45,4 @@ Jeszcze ciepłe donaty (ale nie na tyle, żeby parzyć sobie łapki) moczymy w c
 
 Smacznego! 💙
 
-[def]: static/images/donuts.jpg
+[def]: static/images/donuts-from-oven.jpg

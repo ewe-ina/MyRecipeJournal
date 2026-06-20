@@ -47,4 +47,4 @@ Dip the still-warm donuts (but not so hot that you burn your fingers!) into the 
 
 Enjoy! 💙
 
-[def]: static/images/donuts.jpg
+[def]: static/images/donuts-from-oven.jpg
