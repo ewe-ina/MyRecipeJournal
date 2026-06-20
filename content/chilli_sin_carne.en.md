@@ -1,7 +1,7 @@
 Title: Chilli sin carne
 Date: 2019-08-15
 Slug: chilli-sin-carne
-Summary: Quick and aromatic chilli sin carne with soy granules.
+Summary: Quick and aromatic chilli sin carne with soy mince.
 Author: Ewelina Walkusz
 Lang: en
 TranslationKey: chilli-sin-carne
@@ -20,7 +20,7 @@ Chilli sin carne
 
 #### Ingredients
 
-&emsp; <input type="checkbox"> half a package of soya mince (~70 g) </br>
+&emsp; <input type="checkbox"> half a package of soy mince (~70 g) </br>
 &emsp; <input type="checkbox"> boiling water </br>
 &emsp; <input type="checkbox"> 1 tbsp oil </br>
 &emsp; <input type="checkbox"> 1 red onion </br>
@@ -49,4 +49,4 @@ You can enjoy it on its own, with bread, or with rice.
 
 Enjoy! 💙
 
-[def]: static/images/chilli-sin-carne.jpg
+[def]: static/images/chilli_sin_carne.jpg
